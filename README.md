@@ -1,8 +1,6 @@
 # 🤖 Agente de Tarefas Integrado ao Trello
 
 
-<img width="1280" height="604" alt="1776214388160" src="https://github.com/user-attachments/assets/8ca3444e-5ab4-4211-bca4-a8ee9f78514e" />
-<img width="1280" height="640" alt="imgLinke1" src="https://github.com/user-attachments/assets/05df9c65-39e4-45b7-b489-137b198a939d" />
 
 
 
@@ -46,7 +44,8 @@ Fluxo básico:
 
 ## 📷 Demonstração
 
-*(Adicione aqui prints do seu código ou funcionamento do sistema)*
+<img width="1280" height="604" alt="1776214388160" src="https://github.com/user-attachments/assets/8ca3444e-5ab4-4211-bca4-a8ee9f78514e" />
+<img width="1280" height="640" alt="imgLinke1" src="https://github.com/user-attachments/assets/05df9c65-39e4-45b7-b489-137b198a939d" />
 
 ---
 
