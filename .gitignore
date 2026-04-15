@@ -1,0 +1,5 @@
+.env
+.lab-dio/
+__pycache__/
+*.pyc
+.adk/
